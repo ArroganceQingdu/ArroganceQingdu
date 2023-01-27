@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Qinggao1729.
-- 👀 I’m interested in Philosophy, Psychology and Deconstruction.
-- 🌱 I’m currently learning Google IT Automation with Python Specialization on coursera.org, and also Manim.
+- 👋 Hi, I’m @Qinggao1729, a student at UC Berkeley.
+- 👀 I’m interested in breaking our physical constraints.
+- 🌱 I’m currently learning Manim.
 - 💞️ I’m looking to collaborate on Manim.
 
 <!---
