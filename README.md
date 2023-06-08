@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qinggao1729, a student at UC Berkeley.
 - 👀 I’m interested in breaking our physical constraints.
-- 🌱 I’m currently learning Manim.
+- 🌱 I make math animations using Manim.
 - 💞️ I’m looking to collaborate on Manim.
 
 <!---
